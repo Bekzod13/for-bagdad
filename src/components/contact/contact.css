@@ -1,0 +1,78 @@
+.contacts{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.contact{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border: 2px solid var(--main-green);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 20px 20px;
+    margin: 0 20px;
+}
+.contact-img-box{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid var(--main-green);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-details{
+    width: calc(100% - 100px);
+    padding: 20px;
+}
+.contact-img-box img{
+    width: 50px;
+    height: auto;
+}
+.contact-title{
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: var(--main-green);
+    font-size: 20px;
+}
+.contact-desc{
+    color: var(--main-black);
+}
+.send-header{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    color: var(--main-black);
+    text-align: center;
+}
+.send-text{
+    width: 300px;
+    margin: auto;
+    margin-bottom: 40px;
+    color: var(--main-black);
+    text-align: center;
+}
+.name-label,
+.input-box,
+.message-area{
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    padding: 10px 15px;
+    color: var(--main-black);
+    font-size: 17px;
+}
+.name-label{
+    margin-top: 15px;
+}
+.input-box,
+.message-area{
+    border: 1px solid #444;
+    border-radius: 10px;
+    outline: none;
+    font-size: 16px;
+}
+.message-area{
+    margin-bottom: 100px;
+}

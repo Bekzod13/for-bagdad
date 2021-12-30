@@ -1,0 +1,274 @@
+{
+    "communitte":[
+        {
+            "id": "1",
+            "job": "PROF.",
+            "name": "UKTAM UMURZAKOV",
+            "desc": "Chairman, Professor, DSc, Rector of TIIAME",
+            "image": "users/comUser.png"
+        },
+        {
+            "id": "2",
+            "job": "PROF.",
+            "name": "UKTAM UMURZAKOV",
+            "desc": "Chairman, Professor, DSc, Rector of TIIAME",
+            "image": "users/comUser.png"
+        },
+        {
+            "id": "3",
+            "job": "PROF.",
+            "name": "UKTAM UMURZAKOV",
+            "desc": "Chairman, Professor, DSc, Rector of TIIAME",
+            "image": "users/comUser.png"
+        },
+        {
+            "id": "4",
+            "job": "PROF.",
+            "name": "UKTAM UMURZAKOV",
+            "desc": "Chairman, Professor, DSc, Rector of TIIAME",
+            "image": "users/comUser.png"
+        },
+        {
+            "id": "5",
+            "job": "PROF.",
+            "name": "UKTAM UMURZAKOV",
+            "desc": "Chairman, Professor, DSc, Rector of TIIAME",
+            "image": "users/comUser.png"
+        }
+    ],
+    "speakers":[
+        {
+            "id": "6",
+            "job": "Chairman, Professor, DSc, Rector of TIIAME",
+            "desc": "Managing director CROM Center for Research on Microgrids Department of Energy Technology Aalborg University, Denmark",
+            "index": "Scopus/Web of Science h-index: 95",
+            "image": "users/speaker.png"
+        },
+        {
+            "id": "7",
+            "job": "Chairman, Professor, DSc, Rector of TIIAME",
+            "desc": "Managing director CROM Center for Research on Microgrids Department of Energy Technology Aalborg University, Denmark",
+            "index": "Scopus/Web of Science h-index: 95",
+            "image": "users/speaker.png"
+        },
+        {
+            "id": "8",
+            "job": "Chairman, Professor, DSc, Rector of TIIAME",
+            "desc": "Managing director CROM Center for Research on Microgrids Department of Energy Technology Aalborg University, Denmark",
+            "index": "Scopus/Web of Science h-index: 95",
+            "image": "users/speaker.png"
+        },
+        {
+            "id": "9",
+            "job": "Chairman, Professor, DSc, Rector of TIIAME",
+            "desc": "Managing director CROM Center for Research on Microgrids Department of Energy Technology Aalborg University, Denmark",
+            "index": "Scopus/Web of Science h-index: 95",
+            "image": "users/speaker.png"
+        }
+    ],
+    "keynotes":[
+        {
+            "id": "10",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "11",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "12",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "13",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "14",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "15",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "16",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "17",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "18",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        },
+        {
+            "id": "19",
+            "job": "Prof.",
+            "name": "Obid Tursunov",
+            "image": "users/keynote.png",
+            "desc": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+            "location": "Uzbekistan",
+            "education": "Shanghai Jiao Tong University (China)"
+        }
+    ],
+    "expects":[
+        {
+            "id": "20",
+            "image": "users/expect1.png",
+            "title": "Publication",
+            "desc": "All accepted and presented papers of the 2nd International Conference on Energetics, Civil and Agricultural Engineering 2021 will be submitted for publication in open access E3S Web of Conferences, American Institute of Physics AIP Conference Proceedings, and IOP Conference Series: Earth and Environmental Science journals indexed in SCOPUS and/or Web of Science."
+        },
+        {
+            "id": "21",
+            "image": "users/expect2.png",
+            "title": "Site Visits",
+            "desc": "For the first time in Central Asia? ICECAE 2021 is pleased to invite you to the 'Tashkent City Tour' – an excursion in Tashkent on a double-decker bus. You will experience all the most interesting sights of the beautiful capital of Uzbekistan. Each bus has audio guides with headphones, thanks to which you can listen to guide's comments in English, Russian, Uzbek, French, Spanish, Chinese, German and Japanese."
+        },
+        {
+            "id": "22",
+            "image": "users/expect3.png",
+            "title": "B2B Meetings",
+            "desc": "All accepted and presented papers of the 2nd International Conference on Energetics, Civil and Agricultural Engineering 2021 will be submitted for publication in open access E3S Web of Conferences, American Institute of Physics AIP Conference Proceedings, and IOP Conference Series: Earth and Environmental Science journals indexed in SCOPUS and/or Web of Science."
+        },
+        {
+            "id": "23",
+            "image": "users/expect4.png",
+            "title": "Location",
+            "desc": "For the first time in Central Asia? ICECAE 2021 is pleased to invite you to the 'ashkent City Tour' – an excursion in Tashkent on a double-decker bus. You will experience all the most interesting sights of the beautiful capital of Uzbekistan. Each bus has audio guides with headphones, thanks to which you can listen to guide's comments in English, Russian, Uzbek, French, Spanish, Chinese, German and Japanese."
+        }
+    ],
+    "papers":[
+        {
+            "id": "24",
+            "image": "users/paper1.png",
+            "title": "Agricultural Engineering"
+        },        
+        {
+            "id": "25",
+            "image": "users/paper2.png",
+            "title": "Agricultural Engineering"
+        },
+        {
+            "id": "26",
+            "image": "users/paper3.png",
+            "title": "Agricultural Engineering"
+        },
+        {
+            "id": "27",
+            "image": "users/paper1.png",
+            "title": "Agricultural Engineering"
+        },        
+        {
+            "id": "28",
+            "image": "users/paper2.png",
+            "title": "Agricultural Engineering"
+        },
+        {
+            "id": "29",
+            "image": "users/paper3.png",
+            "title": "Agricultural Engineering"
+        }
+    ],
+    "stays":[
+        {
+            "id": "30",
+            "image": "users/stay1.png",
+            "title": "Le Grande Plaza Hotel"
+        },
+        {
+            "id": "31",
+            "image": "users/stay2.png",
+            "title": "Le Grande Plaza Hotel"
+        },
+        {
+            "id": "32",
+            "image": "users/stay3.png",
+            "title": "Le Grande Plaza Hotel"
+        },
+        {
+            "id": "33",
+            "image": "users/stay1.png",
+            "title": "Le Grande Plaza Hotel"
+        },
+        {
+            "id": "34",
+            "image": "users/stay2.png",
+            "title": "Le Grande Plaza Hotel"
+        },
+        {
+            "id": "35",
+            "image": "users/stay3.png",
+            "title": "Le Grande Plaza Hotel"
+        }
+    ],
+    "academics":[
+        {
+            "id": "36",
+            "title": "FOR ACADEMICS",
+            "price": "180$",
+            "oldPrice": "200$",
+            "desc": "Early-Bird Registration Before 5 September 2021 - 200$ 180$ Late Registration After 5 September until 15 September 2021 - 250$ 200$"
+        },
+        {
+            "id": "37",
+            "title": "FOR ACADEMICS",
+            "price": "180$",
+            "oldPrice": "200$",
+            "desc": "Early-Bird Registration Before 5 September 2021 - 200$ 180$ Late Registration After 5 September until 15 September 2021 - 250$ 200$"
+        },
+        {
+            "id": "38",
+            "title": "FOR ACADEMICS",
+            "price": "180$",
+            "oldPrice": "200$",
+            "desc": "Early-Bird Registration Before 5 September 2021 - 200$ 180$ Late Registration After 5 September until 15 September 2021 - 250$ 200$"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+.expact-box{
+    margin-top: 100px;
+    width: 1050px;
+}
+.expect-header{
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--main-black);
+    margin-bottom: 30px;
+}
+.expects{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.expect{
+    width: 45%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: var(--main-black);
+}
+.expect-left{
+    width: 15%;
+}
+.expect-left img{
+    width: 100%;
+}
+.expect-right{
+    width: 80%;
+}
+.expect-title{
+    font-size: 32px;
+    margin-bottom: 20px;
+}

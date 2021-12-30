@@ -1,0 +1,82 @@
+.schedule{
+    background: var(--main-black);
+    color: var(--main-white);
+    height: 800px;
+    padding-top: 20px;
+}
+.schedule-count{
+    width: 80%;
+    height: 80px;
+    margin: 40px auto;
+    background: var(--main-white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--main-black);
+    border-radius: 15px;
+    overflow: hidden;
+}
+.schedule-count-item{
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+.schedule-count-name{
+    height: 100%;
+    background: var(--main-green);
+    border-radius: 15px;
+    color: var(--main-white);
+}
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75%;
+    width: 100%;
+}
+.table-left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    padding: 0 60px;
+    border-right: 2px solid var(--main-green);
+}
+.table-right{
+    width: 50%;
+    height: 100%;
+    padding: 0 60px;
+}
+.table-data-l{
+    text-align: right;
+    position: relative;
+}
+.table-data-l::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -68px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid var(--main-green);
+    background: var(--main-black);
+}
+.table-data-l:last-child::before{
+    content: "";
+    position: absolute;
+    width: 3px;
+    height: 75px;
+    background: var(--main-black);
+    right: -63px;
+}
+.table-data{
+    height: calc(100% / 8);
+}
+.line-true{
+    text-decoration: line-through;
+}

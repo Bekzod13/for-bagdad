@@ -1,0 +1,56 @@
+.academic-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: var(--main-black);
+}
+.academics{
+    display: flex;
+    justify-content: center;
+}
+.academic{
+    width: 300px;
+    height: 450px;
+    border: 2px solid var(--main-green);
+    border-radius: 10px;
+    margin: 20px 15px;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.academic-title{
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.academic-price{
+    font-size: 60px;
+    color: var(--main-green);
+}
+.academic-desc{
+    padding: 10px 20px;
+    text-align: center;
+}
+.academic-read-btn{
+    margin-top: 10px;
+    padding: 10px 25px;
+    color: var(--main-black);
+    border-radius: 5px;
+    border: 2px solid var(--main-green);
+    text-transform: uppercase;
+    transition: .5s;
+}
+.academic-read-btn:hover{
+    background: var(--main-green);
+    color: var(--main-white);
+}
+.drop{
+    margin-top: 100px;
+}
+.drop img{
+    width: 80px;
+}
